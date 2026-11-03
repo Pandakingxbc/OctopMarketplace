@@ -39,10 +39,10 @@ plugins/<id>/
 
 Pull requests are welcome. Experts, plugins, skills, translations, and fixes all belong here.
 
-1. Fork this repository and branch from `master`.
+1. Fork this repository and branch from `main`.
 2. Add or update one expert or one plugin. Keep the directory name equal to its `id`.
 3. Write user-facing copy in both Chinese and English when the format has `zh` and `en` fields.
 4. Leave secrets, tokens, and private data out. Keep a license file inside a package when you are not the one who can relicense it.
-5. Open a pull request against `master` and say what the package does and how you checked it.
+5. Open a pull request against `main` and say what the package does and how you checked it.
 
 Review looks at whether the package matches the layout above, whether the description matches what it actually does, and whether the diff stays limited to that package.
